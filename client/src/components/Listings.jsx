@@ -18,8 +18,8 @@ const Listings = () => {
     try {
       const response = await fetch(
         selectedCategory !== "All"
-          ? `http://localhost:3001/properties?category=${selectedCategory}`
-          : "http://localhost:3001/properties",
+          ? `https://dwellify-server.onrender.com/properties?category=${selectedCategory}`
+          : "https://dwellify-server.onrender.com/properties",
         {
           method: "GET",
         }
