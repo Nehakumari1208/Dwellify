@@ -1,6 +1,6 @@
 # Dwellify - Full-Stack Home Rentals Application
 
-Dwellify is a **full-stack home rental application** built using **React**, **Redux**, **Node.js**, **MongoDB**, **JWT**, and **Material UI**. Users can register, log in, view property listings, manage their wishlists, and create new listings. Admins have the ability to manage bookings, properties, and user data.
+Dwellify is a **full-stack home rental web application** built using **React**, **Redux**, **Node.js**, **MongoDB**, **JWT**, and **Material UI**. Users can register, log in, view property listings, manage their wishlists, and create new listings. Admins have the ability to manage bookings, properties, and user data.
 
 ## Key Features
 
